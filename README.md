@@ -7,7 +7,7 @@
 <br>
 <br>English : 2010~ (ongoing) :)
 <br>
-<br>Java : 2014~2016
+<br>Java : 2014 ~ 2016
 <br>Python : 2017~ (on going)
 <br>TensorFlow : 2019~ (on going)
 <br>

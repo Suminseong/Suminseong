@@ -14,8 +14,8 @@
 <br>Algorithm : 72% (not bad)
 <br>
 <br>
-<br>Arduino : 2017~2020
-<br>Raspberry : 2017~2018
+<br>Arduino : 2017 ~ 2020
+<br>Raspberry : 2017 ~ 2018
 <br>linux : 2014~2017
 <br>Android Studio : 2014~2016
 <br>

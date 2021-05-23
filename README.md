@@ -2,25 +2,25 @@
 <br>
 <br>language
 <br>
-<br>C : 2009~ (on going)
-<br>C# : 2019~ (on going)
+<br>C : 2009 ~ (on going)
+<br>C# : 2019 ~ (on going)
 <br>
-<br>English : 2010~ (ongoing) :)
+<br>English : 2010 ~ (ongoing) :)
 <br>
 <br>Java : 2014 ~ 2016
-<br>Python : 2017~ (on going)
-<br>TensorFlow : 2019~ (on going)
+<br>Python : 2017 ~ (on going)
+<br>TensorFlow : 2019 ~ (on going)
 <br>
 <br>Algorithm : 72% (not bad)
 <br>
 <br>
 <br>Arduino : 2017 ~ 2020
 <br>Raspberry : 2017 ~ 2018
-<br>linux : 2014~2017
-<br>Android Studio : 2014~2016
+<br>linux : 2014 ~ 2017
+<br>Android Studio : 2014 ~ 2016
 <br>
-<br>Unreal Engine : 2019~ (on going)
-<br>Unity : 2020~ (on going)
+<br>Unreal Engine : 2019 ~ (on going)
+<br>Unity : 2020 ~ (on going)
 <br>
 <br>
 <!--------------------------------->
